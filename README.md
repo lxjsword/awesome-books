@@ -516,6 +516,7 @@ Table of Contents
 ### Serverless
 |书名|豆瓣读书链接|
 |----|----|
+|[Serverless架构：从原理、设计到项目实战](https://book.douban.com/subject/34879023/)|https://book.douban.com/subject/34879023/|
 |[Serverless架构：无服务器应用与AWS Lambda](https://book.douban.com/subject/30290516/)|https://book.douban.com/subject/30290516/|
 
 ### 云计算基础
