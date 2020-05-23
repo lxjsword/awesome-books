@@ -225,13 +225,6 @@ Table of Contents
 ### Go
 |书名|豆瓣读书链接|
 |----|----|
-|[]()||
-|[]()||
-|[]()||
-
-
-|书名|豆瓣读书链接|
-|----|----|
 |[Go程序设计语言](https://book.douban.com/subject/27044219/)|https://book.douban.com/subject/27044219/|
 |[Go语言编程](https://book.douban.com/subject/11577300/)|https://book.douban.com/subject/11577300/|
 |[Go 并发编程实战（第2版）](https://book.douban.com/subject/27016236/)|https://book.douban.com/subject/27016236/|
